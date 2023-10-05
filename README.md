@@ -1,15 +1,12 @@
 # Final-Project-Tableau
-By: Brigitte Sullivan
-Submitted on: Monday, September 25, 2023
-Lighthouse Labs Data Science Program
+By: Brigitte Sullivan </br>
+Submitted on: Monday, September 25, 2023 </br>
+Lighthouse Labs Data Science Program </br>
 
 ## Project/Goals
 The goal for this project was to: 
 * Develop insightful, relevant Data visualization for Worldwide tuberculosis (TB) data gathered by the World Health Organization. Available at [who.int](https://www.who.int/teams/global-tuberculosis-programme/data)
 * Compile the insights into dashboards that tell a compelling story efficiently
-
-
-
 
 ## Process
 
@@ -67,12 +64,10 @@ About the visuals used:
 * used forcasting for country specific cases since this would present the most accurate forecast than using full worldwide data set.  
 
 ## Challenges 
-(discuss challenges you faced in the project)
 - instructions provided were unclear and made it challenging to understand the project requirements
 - lack of domain knowledge may have derailed analysis, mitigated this by doing up front research. 
 
 ## Future Goals
-(what would you do if you had more time?)
 
 - reformat percentages as floats then change format to percentage (more accurate. I was able to format the visualizations effectively so this was deprioritized
 - Develop a way to identify what the 'cure rate' is by country and measure performance against the 85% cure rate target.
